@@ -1,9 +1,9 @@
 # Website Monitoring dan Manajemen Data Sederhana
 
 # Spesifikasi Server
-  Ubuntu 24.04:
-  RAM:4GB
-  Storage:50GB HDD
+  * Ubuntu 24.04:
+  * RAM:4GB
+  * Storage:50GB HDD
 
 # Layanan Server yang Digunakan
 1. Apache
