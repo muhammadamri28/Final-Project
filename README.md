@@ -69,7 +69,7 @@ tar -xvzf prometheus-2.47.0.linux-amd64.tar.gz
 # Pembuatan Aplikasi Web Sederhana
 * mkdir ~/project-web && cd ~/project-web
 1. Buat File PHP untuk Aplikasi
-   * <?php
+   <?php
 $conn = new mysqli('localhost', 'project_user', 'password123', 'project_db');
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
